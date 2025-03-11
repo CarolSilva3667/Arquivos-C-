@@ -1,6 +1,6 @@
 # Meus arquivos em C 
 
 <div aling = "center" >
-  ## Caroline Silva
+  <font size = "20"> Caroline Silva </font>
   
 </div>
